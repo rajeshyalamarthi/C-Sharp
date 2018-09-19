@@ -1,0 +1,6 @@
+D:\MyCodes\Assignment\SportsClassLibrary\bin\Debug\SportsClassLibrary.dll
+D:\MyCodes\Assignment\SportsClassLibrary\bin\Debug\SportsClassLibrary.pdb
+D:\MyCodes\Assignment\SportsClassLibrary\obj\Debug\SportsClassLibrary.csprojAssemblyReference.cache
+D:\MyCodes\Assignment\SportsClassLibrary\obj\Debug\SportsClassLibrary.csproj.CoreCompileInputs.cache
+D:\MyCodes\Assignment\SportsClassLibrary\obj\Debug\SportsClassLibrary.dll
+D:\MyCodes\Assignment\SportsClassLibrary\obj\Debug\SportsClassLibrary.pdb

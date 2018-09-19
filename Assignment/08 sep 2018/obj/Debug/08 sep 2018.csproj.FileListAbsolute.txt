@@ -1,0 +1,7 @@
+D:\MyCodes\Assignment\08 sep 2018\bin\Debug\08 sep 2018.exe.config
+D:\MyCodes\Assignment\08 sep 2018\bin\Debug\08 sep 2018.exe
+D:\MyCodes\Assignment\08 sep 2018\bin\Debug\08 sep 2018.pdb
+D:\MyCodes\Assignment\08 sep 2018\obj\Debug\08 sep 2018.csprojAssemblyReference.cache
+D:\MyCodes\Assignment\08 sep 2018\obj\Debug\08 sep 2018.csproj.CoreCompileInputs.cache
+D:\MyCodes\Assignment\08 sep 2018\obj\Debug\08 sep 2018.exe
+D:\MyCodes\Assignment\08 sep 2018\obj\Debug\08 sep 2018.pdb

@@ -1,0 +1,14 @@
+﻿ALL ABOUT:
+Create An project for Sports league(cricket) and Implement some functionalities like 
+*Enter Match Details
+*Team Details
+*player Details
+*Score Details(scored by the players)
+*Including Strike Rate
+*And Some Validations
+
+REQUIREMENTS:
+To Dsipaly The StrikeRate OF the Player;
+To Display the Highest Scorer of the Match;
+To display the Man of the Match(From winning Team);
+To display which team Won the Match

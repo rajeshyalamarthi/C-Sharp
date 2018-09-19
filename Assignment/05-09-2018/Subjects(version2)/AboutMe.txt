@@ -1,0 +1,9 @@
+﻿ALL ABOUT:
+ Creating a School project Which contains All Students Details Including Marks ANd Grades(classes)
+
+ Requirements
+ 1-Each class does not contain more than 22 members
+ 2-Need to show the coubt of each grade(classes);
+ 3-Display the subjectnames and enter the marks for students;
+ 4-And sort the Students According to the Percentage student got;
+ 5-Display the student Who got highest Mark in the Individual subject with marks
