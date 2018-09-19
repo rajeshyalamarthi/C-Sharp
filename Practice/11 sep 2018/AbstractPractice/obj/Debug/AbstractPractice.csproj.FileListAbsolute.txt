@@ -1,0 +1,7 @@
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPractice\bin\Debug\AbstractPractice.exe.config
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPractice\bin\Debug\AbstractPractice.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPractice\bin\Debug\AbstractPractice.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPractice\obj\Debug\AbstractPractice.csprojAssemblyReference.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPractice\obj\Debug\AbstractPractice.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPractice\obj\Debug\AbstractPractice.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPractice\obj\Debug\AbstractPractice.pdb

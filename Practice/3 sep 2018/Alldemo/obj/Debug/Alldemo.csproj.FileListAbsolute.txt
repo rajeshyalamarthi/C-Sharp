@@ -1,0 +1,7 @@
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Alldemo\bin\Debug\Alldemo.exe.config
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Alldemo\bin\Debug\Alldemo.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Alldemo\bin\Debug\Alldemo.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Alldemo\obj\Debug\Alldemo.csprojAssemblyReference.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Alldemo\obj\Debug\Alldemo.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Alldemo\obj\Debug\Alldemo.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Alldemo\obj\Debug\Alldemo.pdb

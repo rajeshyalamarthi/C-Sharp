@@ -1,0 +1,6 @@
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPracticeViaVirtual\bin\Debug\AbstractPracticeViaVirtual.exe.config
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPracticeViaVirtual\bin\Debug\AbstractPracticeViaVirtual.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPracticeViaVirtual\bin\Debug\AbstractPracticeViaVirtual.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPracticeViaVirtual\obj\Debug\AbstractPracticeViaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPracticeViaVirtual\obj\Debug\AbstractPracticeViaVirtual.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\AbstractPracticeViaVirtual\obj\Debug\AbstractPracticeViaVirtual.pdb

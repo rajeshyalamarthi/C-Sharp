@@ -1,0 +1,8 @@
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\StringsDemo\obj\Debug\StringsDemo.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\StringsDemo\obj\Debug\StringsDemo.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\StringsDemo\obj\Debug\StringsDemo.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\StringsDemo.exe.config
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\StringsDemo\bin\Debug\StringsDemo.xml
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\StringsDemo.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\StringsDemo.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\StringsDemo.xml

@@ -1,0 +1,6 @@
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Constructor\bin\Debug\Constructor.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Constructor\bin\Debug\Constructor.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Constructor\obj\Debug\Constructor.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Constructor\obj\Debug\Constructor.pdb

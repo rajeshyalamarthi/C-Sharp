@@ -1,0 +1,6 @@
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\InterfacePractice\bin\Debug\InterfacePractice.exe.config
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\InterfacePractice\bin\Debug\InterfacePractice.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\InterfacePractice\bin\Debug\InterfacePractice.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\InterfacePractice\obj\Debug\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\InterfacePractice\obj\Debug\InterfacePractice.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\InterfacePractice\obj\Debug\InterfacePractice.pdb

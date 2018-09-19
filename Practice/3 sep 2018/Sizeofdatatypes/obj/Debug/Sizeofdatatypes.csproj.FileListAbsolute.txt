@@ -1,0 +1,7 @@
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Sizeofdatatypes\bin\Debug\Sizeofdatatypes.exe.config
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Sizeofdatatypes\bin\Debug\Sizeofdatatypes.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Sizeofdatatypes\bin\Debug\Sizeofdatatypes.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Sizeofdatatypes\obj\Debug\Sizeofdatatypes.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Sizeofdatatypes\obj\Debug\Sizeofdatatypes.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Sizeofdatatypes\obj\Debug\Sizeofdatatypes.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Sizeofdatatypes\obj\Debug\Sizeofdatatypes.csprojAssemblyReference.cache

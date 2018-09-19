@@ -1,0 +1,6 @@
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\ExceptionHandlingPractice\bin\Debug\ExceptionHandlingPractice.exe.config
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\ExceptionHandlingPractice\bin\Debug\ExceptionHandlingPractice.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\ExceptionHandlingPractice\bin\Debug\ExceptionHandlingPractice.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\ExceptionHandlingPractice\obj\Debug\ExceptionHandlingPractice.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\ExceptionHandlingPractice\obj\Debug\ExceptionHandlingPractice.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\ExceptionHandlingPractice\obj\Debug\ExceptionHandlingPractice.pdb

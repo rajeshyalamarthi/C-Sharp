@@ -1,0 +1,7 @@
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\Inheritance\obj\Debug\Inheritance.pdb

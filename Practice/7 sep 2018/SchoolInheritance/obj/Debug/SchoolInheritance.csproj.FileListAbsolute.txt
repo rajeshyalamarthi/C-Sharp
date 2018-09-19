@@ -1,0 +1,6 @@
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\SchoolInheritance\bin\Debug\SchoolInheritance.exe.config
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\SchoolInheritance\bin\Debug\SchoolInheritance.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\SchoolInheritance\bin\Debug\SchoolInheritance.pdb
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\SchoolInheritance\obj\Debug\SchoolInheritance.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\SchoolInheritance\obj\Debug\SchoolInheritance.exe
+C:\Users\rajesh.yalamarthi\source\repos\Alldemo\SchoolInheritance\obj\Debug\SchoolInheritance.pdb
